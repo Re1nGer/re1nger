@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Re1nGer 👋
 
-<!--
-**Re1nGer/re1nger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer with 2 years of commercial experience. My expertise includes working with ASP.NET, React, and Docker. I'm passionate about learning new technologies and applying them to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LeetCode Achievements
+
+I enjoy solving algorithmic problems in my free time. You can find my LeetCode profile [here](https://leetcode.com/Re1nGer/) to see my achievements.
+
+## Certificates
+
+I have completed the following courses on Coursera related to Docker:
+
+- [Docker and Kubernetes for Beginners](https://www.coursera.org/learn/docker-kubernetes-for-beginners)
+- [Docker for Web Developers](https://www.coursera.org/learn/docker-for-web-developers)
+
+## Interested In
+- Data Structures and Algorithms
+- Quantum Physics
+- Writing Software
+- Poetry
+- Philosophy
+
+## Contact Me
+
+If you have any questions or would like to discuss a potential project, feel free to reach out to me at [bekjonibr@gmail.com](mailto:bekjonibr@gmail.com).
