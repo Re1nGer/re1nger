@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with 2 years of commercial experience. My expertise includes working with ASP.NET, React, and Docker. I'm passionate about learning new technologies and applying them to solve real-world problems.
+I'm a Full Stack Developer with 3 years of commercial experience. My expertise includes working with ASP.NET, React, and Docker. I'm passionate about learning new technologies and applying them to solve real-world problems.
 
 ## LeetCode Achievements
 
@@ -14,13 +14,6 @@ I have completed the following courses on Coursera related to Docker:
 
 - [Docker and Kubernetes for Beginners](https://www.coursera.org/learn/docker-kubernetes-for-beginners)
 - [Docker for Web Developers](https://www.coursera.org/learn/docker-for-web-developers)
-
-## Interested In
-- Data Structures and Algorithms
-- Quantum Physics
-- Writing Software
-- Poetry
-- Philosophy
 
 ## Contact Me
 
