@@ -1,5 +1,9 @@
 # Hi, I'm Re1nGer 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ## About Me
 
 I'm a Full Stack Developer with 5 years of commercial experience. My expertise includes working with ASP.NET, React, and Docker. I'm passionate about learning new technologies and applying them to solve real-world problems.
