@@ -10,6 +10,7 @@ I'm a Full Stack Developer with 5 years of commercial experience. My expertise i
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=re1nger&show_icons=true&include_all_commits=true&theme=dark&rank_icon=github&card_width=600&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
+## Language & Tools
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
