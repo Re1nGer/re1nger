@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with 4 years of commercial experience. My expertise includes working with GO, ASP.NET, React, and Kubernetes. I'm passionate about learning new technologies and applying them to solve real-world problems.
+I'm a Full Stack Developer with 5 years of commercial experience. My expertise includes working with GO, ASP.NET, React, and Kubernetes. I'm passionate about learning new technologies and applying them to solve real-world problems.
 
 
 ## Language & Tools
